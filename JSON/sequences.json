@@ -1,1 +1,57 @@
-[ ]
+[
+  {
+    "name": "cain & abel theme",
+    "loop": "2m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "A4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "A4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "Bb4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "Bb4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:0:0.0",
+        "pitch": "A4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:1:0.0",
+        "pitch": "A4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:2:0.0",
+        "pitch": "C5",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "1:3:0.0",
+        "pitch": "Bb4",
+        "dur": "8n",
+        "vel": "1"
+      }
+    ]
+  }
+]
